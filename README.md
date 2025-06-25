@@ -1,2 +1,4 @@
 # dopaminedev
-testing environment
+Testing environment
+Add Notes and keep updating it.. 
+
